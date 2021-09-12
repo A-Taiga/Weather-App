@@ -8,6 +8,8 @@ Weather app made in SwiftUI using openWeatherMap API
 Things to do: 
 
 Add more backgrounds based on time and current weather
+
 Add more conditions for more pictures in the hour forcast scroll view
+
 
 Note: Must add own api key to work located in FetchData.swift
