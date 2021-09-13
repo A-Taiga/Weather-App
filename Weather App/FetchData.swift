@@ -101,7 +101,7 @@ struct WeatherAPI: Codable {
     let hourly: [Hourly]
     let daily: [Daily]
 }
-var apiKey = "377efb0876b0908dda0e8c1e3cafb273&units"
+var apiKey = ""
 var link = "https://api.openweathermap.org/data/2.5/onecall?lat=30.079729&lon=-95.417686&appid=\(apiKey)=imperial"
 
 class Data: ObservableObject {
